@@ -8,5 +8,5 @@ I'm a **Robotics Engineer 👨🏽‍💼 [@Fraunhofer IPA](https://www.ipa.frau
   - Computer Vision
   - Data Science
   - DIY Electronics 
-- How to reach me: <sonuragesh18@gmail.com>;
+- How to reach me: <ragesh.ramachandran@ipa.fraunhofer.de>;
 - [Resume](https://www.linkedin.com/in/ragesh-ramachandran/)
