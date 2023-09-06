@@ -3,7 +3,7 @@
 
 I'm a **Robotics Researcher 👨🏽‍💼 [@Fraunhofer IPA](https://www.ipa.fraunhofer.de/)** in Stuttgart, Germany. <br />
 
-## Thinigs I love
+## Things I love
 - Building distributed computer applications
 - Building scalable application
 
@@ -12,4 +12,6 @@ I'm a **Robotics Researcher 👨🏽‍💼 [@Fraunhofer IPA](https://www.ipa.fr
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ragesh_r)
 
 
-
+<p align="center">
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ipa-rar&theme=react&show_icons=true">
+</p>
