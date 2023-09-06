@@ -6,6 +6,8 @@ I'm a **Robotics Researcher 👨🏽‍💼 [@Fraunhofer IPA](https://www.ipa.fr
 ## Things I love
 - Building distributed computer applications
 - Building scalable application
+- Workflow automation
+- Automating most boring tasks
 
 ## Know more
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragesh-ramachandran/)
