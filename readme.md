@@ -15,5 +15,5 @@ I'm a **Robotics Researcher 👨🏽‍💼 [@Fraunhofer IPA](https://www.ipa.fr
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-five-lyart.vercel.app/api?username=ipa-rar&theme=react&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipa-rar&layout=compact&langs_count=8">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipa-rar&theme=react&langs_count=8">
 </p>
